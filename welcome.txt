@@ -1,6 +1,12 @@
 welcome to Devops!
 
+
 sub()
 {
 system.out.println("devloper2 is working on it ")
+
+add()
+{
+System.out.println("addition of two members")
+
 }
